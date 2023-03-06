@@ -6,5 +6,5 @@ Assignments for CS F372 Operating Systems
  
  compile using gcc -o A1_10 A1+10.c -lpthread  
  
- execute using ./A1_10 n a b p <values of x to fill into separated with space>  
+ execute using ./A1_10 n a b p x(multiple vals as required for the matrix)  
  enter n a b p and values of x as required
