@@ -8,3 +8,11 @@ Assignments for CS F372 Operating Systems
  
  execute using ./A1_10 n a b p x(multiple vals as required for the matrix)  
  enter n a b p and values of x as required
+ 
+ Assignment 2
+ : This is a server client implementation using shared memory, mutex locks and multitthreading.(written in C)
+ 
+ compile using gcc server.c -o server -lrt -lpthread
+ and for client gcc client.c -o client -lrt -lpthread
+ 
+ execute using ./server and ./client
